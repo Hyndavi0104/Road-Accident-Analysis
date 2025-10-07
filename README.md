@@ -43,10 +43,13 @@ Building visual elements such as:
 - Map visuals for accident locations  
 - KPI cards showing total accidents, casualties, and severity  
 
-### 🔟 Report / Dashboard Building
+### ⿩ Report / Dashboard Building
 Combining all visuals into a single, interactive *Power BI dashboard*.  
 Adding filters, slicers, and navigation buttons for better usability.
-### 1⿡ Insights
+
+---
+
+### ⿡ Insights
 Interpreting the visualizations to extract meaningful conclusions, such as:
 - Fatal accidents are more frequent during nighttime.  
 - Two-wheelers contribute the highest number of casualties.  
